@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently interested in the upcoming Olympics 2024 games in Paris 🇫🇷
+- I’m currently interested in the upcoming summer Olympics 2024 games in Paris!! 🇫🇷
 - I’m currently working on Master's in Software Engineering 🤓
-- My favorite hobby is reading romance novels, jk jk 
+- My favorite hobby is reading romance novels, jk jk. But I am interested in art and photograpy, including making silly romance novel covers 📘 [Whispers of Enchantment](https://www.brockgion.com/silly-photos) 😆  
 
 [![Brock's GitHub stats](https://github-readme-stats.vercel.app/api?username=brocg)](https://github.com/brocg/github-readme-stats)
