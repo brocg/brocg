@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I’m currently interested in the upcoming Olympics 2024 games in Paris 🇫🇷
+- I’m currently working on Master's in Software Engineering 🤓
+- My favorite hobby is reading romance novels, jk jk 
+
 [![Brock's GitHub stats](https://github-readme-stats.vercel.app/api?username=brocg)](https://github.com/brocg/github-readme-stats)
